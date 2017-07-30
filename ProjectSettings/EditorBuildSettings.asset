@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MeetUp/Scenes/SceneManager.unity
+    guid: 95c2d8010ca2a0649bf08e44d36a6996
+  - enabled: 1
+    path: Assets/MeetUp/Scenes/Coroutine.unity
+    guid: 69e974f9424b75f4baedaa72bf1c3aa0
+  - enabled: 1
+    path: Assets/MeetUp/Scenes/Editor.unity
+    guid: 76cdd01ea73cfb641a9b87e1150f4202
+  - enabled: 1
+    path: Assets/MeetUp/Scenes/LoadAdditive.unity
+    guid: 00000000000000000000000000000000
